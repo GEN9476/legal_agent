@@ -41,7 +41,7 @@ O **JusAI** é um sistema inteligente de perguntas e respostas jurídicas desenv
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/MatheusFL99/legal_agent.git
+git clone https://github.com/GEN9476/legal_agent.git
 cd legal_agent
 ```
 
