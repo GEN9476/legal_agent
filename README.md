@@ -75,3 +75,5 @@ O frontend estará em `http://localhost:3000`
 - IA: Explica os artigos da CLT e mostra links para Planalto, Jusbrasil etc.
 - Usuário: "E se for por justa causa?"
 - IA: Compreende o contexto da sessão e responde com base na continuidade.
+
+<!-- Updated by bot at 2026-06-25T20:02:23.108Z -->
