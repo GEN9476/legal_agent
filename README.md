@@ -125,3 +125,5 @@ O frontend estará em `http://localhost:3000`
 <!-- Updated by bot at 2026-06-25T20:12:20.599Z -->
 
 <!-- Updated by bot at 2026-06-25T20:12:33.841Z -->
+
+<!-- Updated by bot at 2026-06-25T20:12:48.003Z -->
